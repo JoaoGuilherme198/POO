@@ -3,5 +3,4 @@ public class ItemNota {
     private float valor;
     private Produto produto;
     private NotaFiscal notaFiscal;
-    private Produto produto;
 }
