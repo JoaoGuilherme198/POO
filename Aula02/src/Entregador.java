@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-public class Entregador {
-    private String nome;
-    private String cpf;
+public class Entregador extends Pessoa{
     private ArrayList<NotaFiscal> notas;
 }

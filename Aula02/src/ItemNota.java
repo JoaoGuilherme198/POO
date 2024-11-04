@@ -6,4 +6,5 @@ public class ItemNota {
         this.produto = new Produto();
     }
     private NotaFiscal notaFiscal;
+    
 }
