@@ -1,6 +1,9 @@
 public class ItemNota {
     private float quantidade;
     private float valor;
-    private Produto produto;
+    public Produto produto;
+    public ItemNota(){
+        this.produto = new Produto();
+    }
     private NotaFiscal notaFiscal;
 }
